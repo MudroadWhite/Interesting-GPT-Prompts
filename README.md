@@ -1,0 +1,2 @@
+# Interesting GPT Prompts
+ 
