@@ -1,4 +1,4 @@
-# 2023.3.15: How Should I Become A Cultural Person?
+# 2023.3.15: How to Become A Man of Culture?
 
 can you recommend some book telling about how people write letters to each others in the 18/19s?
 
@@ -85,3 +85,49 @@ Are there any books about men of letters?
 > 4. "A Company of Readers: Uncollected Writings of W. H. Auden, Jacques Barzun, and Lionel Trilling from the Reader's Subscription and Mid-Century Book Clubs" edited by Arthur Krystal - This book collects the uncollected writings of three prominent literary figures of the mid-20th century: W. H. Auden, Jacques Barzun, and Lionel Trilling. The book offers insights into the literary tastes and interests of these men of letters, as well as their broader cultural and intellectual contributions.
 >
 > These books offer a variety of perspectives on men of letters, including insights into their literary achievements, cultural and political contributions, and personal lives.
+
+Are there any books about how ppl in the past make music themes? Especially how do they design the melodies?
+
+> Yes, there are many books that discuss how people in the past created music and designed melodies. Here are some examples:
+>
+> 1. "The Study of Medieval Chant: Paths and Bridges, East and West" by Michael Proctor and Nicolas Bell
+>
+> This book explores the methods used to compose and notate medieval chant music, focusing on the various types of notation and the different ways in which melodies were constructed.
+>
+> 1. "The Art of Partimento: History, Theory, and Practice" by Giorgio Sanguinetti
+>
+> This book provides a detailed overview of the partimento, a system of music composition and improvisation that was widely used in the 18th century. It includes discussions on melody, harmony, and bass line construction.
+>
+> 1. "The Craft of Modal Counterpoint" by Thomas Benjamin
+>
+> This book provides an in-depth examination of the methods used to compose music in the modal style, which was popular in the Renaissance period. It includes discussions on melody, harmony, and voice leading.
+>
+> 1. "Music in the Baroque Era: From Monteverdi to Bach" by Manfred F. Bukofzer
+>
+> This book provides a comprehensive overview of the musical styles and techniques used in the Baroque period, including discussions on melody, harmony, and form.
+>
+> These are just a few examples of books that discuss how people in the past created music and designed melodies. There are many other books and resources available on this topic, depending on the specific time period and musical style you are interested in.
+
+I wish to be more specific. I wish those compendium could be more emphasized on designing melodies than anything else, and yet again, maybe not-so-modern
+
+> If you're looking for books that specifically focus on designing melodies for different themes, here are a few recommendations:
+>
+> 1. "The Study of Counterpoint: From Johann Joseph Fux's Gradus ad Parnassum" by Johann Joseph Fux
+>
+> This classic book from the 18th century provides a comprehensive guide to counterpoint, which is the art of combining melodies to create harmony. It includes discussions on how to create melodies for different musical forms and genres, such as the fugue, chorale, and canon.
+>
+> 1. "The Craft of Musical Composition: Book 1: Theory" by Paul Hindemith
+>
+> This book by renowned composer Paul Hindemith provides a detailed exploration of music theory, including discussions on melody construction and harmonic progression. It includes practical exercises for composing melodies in different styles and forms.
+>
+> 1. "A Practical Approach to the Study of Form in Music" by Arnold Schoenberg
+>
+> This book by Arnold Schoenberg provides a comprehensive guide to musical form, including discussions on how to create melodies that fit different forms and structures. It includes practical exercises for composing melodies in different styles, such as the fugue, sonata, and rondo.
+>
+> 1. "The Study of Orchestration" by Samuel Adler
+>
+> While not exclusively focused on melody, this book provides a comprehensive guide to orchestration, which is the art of arranging music for different instruments. It includes discussions on how to create melodies that sound effective when played by different instruments, as well as practical advice for writing for different musical genres.
+>
+> These books are not modern, but they are timeless classics that continue to be valuable resources for composers today. They are focused on melody construction and provide practical guidance for creating melodies that fit different themes and styles.
+
+> Comment: Right now, I almost feel I wanted to cry. I stopped weeping with tears when I was in my undergrad, so it's still hard for me to do this today. I never realized such a dream can come true at such method, and I hope I can finally restart to grow my dream.
