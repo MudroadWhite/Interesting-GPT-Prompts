@@ -131,3 +131,25 @@ I wish to be more specific. I wish those compendium could be more emphasized on 
 > These books are not modern, but they are timeless classics that continue to be valuable resources for composers today. They are focused on melody construction and provide practical guidance for creating melodies that fit different themes and styles.
 
 > Comment: Right now, I almost feel I wanted to cry. I stopped weeping with tears when I was in my undergrad, so it's still hard for me to do this today. I never realized such a dream can come true at such method, and I hope I can finally restart to grow my dream.
+
+Are there any books telling about how ppl social with strangers in the past? I wish the content could be more flexible: you don't need to social in the bars, you might just going to social when you meet a stranger on the street and start a random talk
+
+> Yes, there are books that discuss how people in the past socialized with strangers in a variety of contexts. Here are a few recommendations:
+>
+> 1. "A Social History of the Third Reich" by Richard Grunberger
+>
+> This book provides a comprehensive look at life in Nazi Germany, including discussions on how people interacted with strangers in different settings. It covers topics such as social etiquette, public spaces, and cultural norms.
+>
+> 1. "The Art of Conversation: A Guided Tour of a Neglected Pleasure" by Catherine Blyth
+>
+> While not specifically focused on the past, this book provides insights into the art of conversation and how it has evolved over time. It includes discussions on how people have interacted with strangers in different cultures and historical periods.
+>
+> 1. "The Pleasures of Men" by Kate Williams
+>
+> This historical fiction novel provides a vivid portrayal of life in Victorian London, including discussions on how people interacted with strangers in different social settings. It explores topics such as gender roles, class dynamics, and social norms.
+>
+> 1. "The Social Life of Small Urban Spaces" by William H. Whyte
+>
+> This book provides an anthropological look at urban spaces and how people interact with each other in public places. It includes discussions on how people interact with strangers in different social contexts, such as parks, plazas, and streets.
+>
+> These books provide a variety of perspectives on how people in the past interacted with strangers in different contexts. They explore topics such as social norms, etiquette, and cultural practices, and can provide insights into how these practices have evolved over time.
