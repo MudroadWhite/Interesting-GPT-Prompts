@@ -1,4 +1,4 @@
-# 2023.3.15: How do Ppl in Old Days Write Letters?
+# 2023.3.15: How Should I Become A Cultural Person?
 
 can you recommend some book telling about how people write letters to each others in the 18/19s?
 
@@ -74,3 +74,14 @@ Most of the writers are pretty famous. Are there any not-so-famous writers havin
 > 4. "The Republic of Letters: A Cultural History of the French Enlightenment" by Dena Goodman - This book explores the cultural and intellectual scene in France during the Enlightenment. Goodman discusses a variety of writers, philosophers, and intellectuals of the time, many of whom were not widely known outside of their own circles.
 >
 > These books offer a variety of perspectives on men of culture, including insights into the lives and contributions of individuals who may not be well-known outside of their own circles.
+
+Are there any books about men of letters?
+
+> Yes, there are many books about men of letters, which typically refers to writers, poets, and other literary figures who are known for their literary accomplishments and contributions. Here are a few examples:
+>
+> 1. "Men of Letters" by Dale Salwak - This book explores the lives and works of some of the most important literary figures in history, including Shakespeare, Dickens, and Hemingway. The book offers insights into the creative process, literary influences, and personal lives of these authors.
+> 2. "The Men of Letters in the Early Republic: Cultivating Forums of Citizenship" by Catherine O'Donnell Kaplan - This book explores the role of men of letters in shaping the cultural and political landscape of the early United States. Kaplan discusses a variety of writers and intellectuals, including Benjamin Franklin, Thomas Jefferson, and James Fenimore Cooper.
+> 3. "The Consolation of Otherness: The Male Love Elegy in Milton, Gray, and Tennyson" by Robert H. F. Carver - This book examines the tradition of male love poetry in English literature, and focuses on the work of three major poets: John Milton, Thomas Gray, and Alfred Tennyson. The book offers insights into the literary and cultural context of these works, as well as their broader significance in the history of literature.
+> 4. "A Company of Readers: Uncollected Writings of W. H. Auden, Jacques Barzun, and Lionel Trilling from the Reader's Subscription and Mid-Century Book Clubs" edited by Arthur Krystal - This book collects the uncollected writings of three prominent literary figures of the mid-20th century: W. H. Auden, Jacques Barzun, and Lionel Trilling. The book offers insights into the literary tastes and interests of these men of letters, as well as their broader cultural and intellectual contributions.
+>
+> These books offer a variety of perspectives on men of letters, including insights into their literary achievements, cultural and political contributions, and personal lives.
