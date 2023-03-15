@@ -52,3 +52,25 @@ Are there any books telling about how friends communicate by letters?
 > 4. "The Perennial Philosophy: An Interpretation of the Great Mystics, East and West" by Aldous Huxley - This book is a collection of letters written by the English writer Aldous Huxley to his friend, the American philosopher Gerald Heard. The letters offer insights into the intellectual and spiritual interests of both writers, as well as their close friendship over the course of several decades.
 >
 > These books offer a variety of perspectives on the art of letter writing between friends, including insights into the nature of friendship, support, and mentorship.
+
+Are there any books telling about how "man of culture" talk and behave?
+
+> There are several books that discuss the behavior and communication of individuals considered to be "men of culture." Here are a few examples:
+>
+> 1. "The Anatomy of Influence: Literature as a Way of Life" by Harold Bloom - This book is a meditation on the role of literature in shaping the lives and identities of "men of culture," such as writers, poets, and intellectuals. Bloom offers insights into the ways in which these individuals use literature to understand themselves and the world around them.
+> 2. "Cultural Amnesia: Necessary Memories from History and the Arts" by Clive James - This book is a collection of essays that explore the cultural and intellectual contributions of various "men of culture" throughout history, including writers, artists, and philosophers. James offers insights into the ways in which these individuals have shaped our understanding of the world and ourselves.
+> 3. "The Rise of the Creative Class: And How It's Transforming Work, Leisure, Community and Everyday Life" by Richard Florida - This book explores the emergence of a new class of "men of culture" in the contemporary world, including artists, writers, and designers. Florida offers insights into the ways in which these individuals are shaping the economy and society through their creative work.
+> 4. "The Rebel: An Essay on Man in Revolt" by Albert Camus - This book is a philosophical exploration of rebellion and the human condition. Camus offers insights into the behavior and communication of individuals who are willing to challenge established norms and values in the pursuit of greater freedom and self-expression.
+>
+> These books offer a variety of perspectives on the behavior and communication of individuals considered to be "men of culture," including insights into their motivations, values, and contributions to society.
+
+Most of the writers are pretty famous. Are there any not-so-famous writers having written books describing men of culture
+
+> Certainly, there are many lesser-known writers who have written about men of culture. Here are a few examples:
+>
+> 1. "The Men of the Nineties" by William Dean Howells - This book is a collection of essays that explores the cultural and intellectual scene in America during the 1890s. Howells discusses a variety of writers, artists, and intellectuals of the time, many of whom were not widely known outside of their own circles.
+> 2. "The Company We Keep: An Ethics of Fiction" by Wayne C. Booth - This book explores the ways in which literature shapes our understanding of moral and ethical behavior. Booth discusses a variety of writers, both famous and lesser-known, and offers insights into their contributions to our moral imagination.
+> 3. "The Intellectuals and the Masses: Pride and Prejudice Among the Literary Intelligentsia, 1880-1939" by John Carey - This book explores the relationship between the literary elite and the broader public during the early 20th century. Carey discusses a variety of writers and intellectuals of the time, many of whom were not widely known outside of their own circles.
+> 4. "The Republic of Letters: A Cultural History of the French Enlightenment" by Dena Goodman - This book explores the cultural and intellectual scene in France during the Enlightenment. Goodman discusses a variety of writers, philosophers, and intellectuals of the time, many of whom were not widely known outside of their own circles.
+>
+> These books offer a variety of perspectives on men of culture, including insights into the lives and contributions of individuals who may not be well-known outside of their own circles.
