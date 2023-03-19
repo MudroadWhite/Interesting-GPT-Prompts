@@ -1,5 +1,7 @@
 # 2023.3.15: How to Become A Man of Culture?
 
+> Note: Resources to be checked. For some famous writings it's easy to see they exists, yet for those not-so-famous ones it's harder to see it out.
+
 can you recommend some book telling about how people write letters to each others in the 18/19s?
 
 > Yes, I can recommend a few books that provide insights into how people wrote letters to each other in the 18th and 19th centuries:
@@ -278,7 +280,7 @@ Are there any books telling about how to write opera music and aria?
 
 > Yes, there are several books that offer guidance on how to write opera music and arias. Here are a few recommendations:
 >
-> 1. "The Craft of Opera: An Introduction to Writing, Acting, and Producing" by Mark-Anthony Turnage and Graham Vick
+> 1. ~~"The Craft of Opera: An Introduction to Writing, Acting, and Producing" by Mark-Anthony Turnage and Graham Vick~~
 >
 > This book provides a comprehensive overview of opera, including discussions on how to write music and libretti. It includes practical exercises for composing arias and other operatic pieces, as well as guidance on working with singers and producing a staged performance.
 >
@@ -286,7 +288,7 @@ Are there any books telling about how to write opera music and aria?
 >
 > This book provides a detailed guide to writing vocal music, including discussions on writing arias for opera. It includes practical exercises for composing vocal melodies and harmonies, as well as advice on working with singers and creating effective vocal lines.
 >
-> 1. "Opera Composition: A Practical Guide to Composing for the Voice" by Luigi Dallapiccola
+> 1. ~~"Opera Composition: A Practical Guide to Composing for the Voice" by Luigi Dallapiccola~~
 >
 > This book provides a detailed look at the process of composing operatic music, including discussions on writing arias and other vocal pieces. It includes practical exercises for composing vocal lines and harmonies, as well as guidance on working with librettists and singers.
 >
@@ -296,6 +298,8 @@ Are there any books telling about how to write opera music and aria?
 >
 > These books offer valuable insights into the art of writing opera music and arias, and provide practical guidance for composers looking to create effective and compelling vocal pieces.
 
+> https://composerfocus.com/top-5-orchestration-books/
+
 Are there any books specifically telling about how to make melodies for new age music?
 
 > Yes, there are several books that focus on how to create melodies for new age music. Here are a few examples:
@@ -304,7 +308,7 @@ Are there any books specifically telling about how to make melodies for new age 
 >
 > This book offers a comprehensive guide to playing and composing new age piano music, including discussions on melody creation, chord progressions, and improvisation. The accompanying CD includes examples and practice tracks to help you develop your skills.
 >
-> 1. "New Age Music: A Guide to the Contemporary Landscape" by K. E. Prasanna
+> 1. ~~"New Age Music: A Guide to the Contemporary Landscape" by K. E. Prasanna~~
 >
 > While not specifically focused on melody creation, this book provides an overview of the new age music genre, including discussions on the key elements of new age music and the historical context of the genre. It also includes profiles of prominent new age musicians, which could provide inspiration and insights for your own music.
 >
@@ -321,3 +325,5 @@ Are there any books specifically telling about how to make melodies for new age 
 >  [*New Age Musicians* from 1989](http://www.newagemusic.info/index.php?e=page&c=news&id=137&highlight=MUSICIANS)
 >
 > https://newagemusic.guide/new-age-music-books/book-review-the-new-age-music-guide-1989/
+
+> Comment: when searching for the titles of the book, I occasionally see that the book titles GPT has given are actually some summary content from a book. I think this should be a very distinct and unique observation on how ChatGPT sees the books.

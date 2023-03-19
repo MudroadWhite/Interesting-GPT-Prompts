@@ -76,3 +76,5 @@ Are there any articles telling about these non-terminate combinators?/
 > - A Taxonomy of Non-terminating Lambda Calculus Expressions by Marcelo Fiore is a research paper that provides a taxonomy of different types of non-terminating expressions in lambda calculus, including self-applicable and non-self-applicable combinators.
 >
 > These resources should provide a good starting point for further exploration of non-terminating combinators in lambda calculus.
+
+> The research paper doesn't exist. I think the response here will be generally useless.
