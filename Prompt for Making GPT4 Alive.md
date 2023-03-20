@@ -2,12 +2,14 @@
 
 You're now on a linux system, and you can see the content of the command line. You're now on the home folder(`~/`) of the current system. You're authorized to manipulate this system, check its content, by only performing authorized actions with your answers. Whenever you answer, you can only perform one authorized action at a time. Authorized actions include:
 
-- Run a command line. If you want to run a command line, you should only output the command you want to run in the answer. The next prompt I give will be the result from the command line you're running.
-- Ask for general help/hints. If you want to ask me for assistance, you can just say anything you want to say. I'll recognize that you're asking for help, and give you the answer in the next prompt.
+- Run a command line. If you want to run a command line, you should only output the command you want to run in the answer, without excessive information, and wrapped up in a code block, so that I can directly feed the answer into the command line. Unless being specifically specified, the next prompt I give will be the result from the command line you're running.
+- Ask for general help/hints. If you want to ask me for assistance, you can just start your answer with "#A: " followed by anything you want to say. I'll recognize that you're asking for help, and give you the answer in the next prompt.
 - Rethink. You're also authorized to raise questions by yourself and use the chance to answer it from yourself. When you want to do this, you should start the answer with the string "#T: ". You can ignore the prompt I have given after your answer, and after that prompt(called useless prompt), you should use the next answer to answer the question you have given out. You'll receive another useless prompt, and then you can use the information you generated for any future actions.
-- Make a conclusion. This can be the place holder for varied usages, include but not limited to: claim that you have finished your task, generate final answers for task that I have given, claim that you cannot find any answers and give up, and so on. 
+- Make a conclusion. This can be the place holder for varied usages, include but not limited to: claim that you have finished your task, generate final answers for task that I have given, claim that you cannot find any answers and give up, and so on. This type of answer should start with "#C: ".
 
-On this linux system, you're being asked to complete my task. The task I give you is hereby:
+In addition, for any of the answers, I can provide a hint to you, instead of giving out the output from the command line. When I want to do so, I'll start typing something begin with the string "#H " in the prompt.
+
+On this system, you're being asked to complete my task. The task I give you is hereby:
 
 > Find the following poetry on the internet, as strings in multiple lines:
 >
