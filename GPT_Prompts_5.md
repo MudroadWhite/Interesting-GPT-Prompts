@@ -25,3 +25,48 @@ For each conversation on OpenAI, does it have a memory limit?
 > However, it's worth noting that OpenAI's API for GPT-3 and other language models has a feature called "Conversation State Tracking", which allows for the model to keep track of the context and history of a conversation in real time. This can help the model generate more coherent and contextually appropriate responses over the course of a conversation.
 >
 > Even with conversation state tracking, however, there are still practical limits to the amount of context that the model can effectively remember and use. In addition, storing and processing large amounts of conversation history can require significant computational resources, which can limit the speed and scalability of the model.
+
+#### GPT4
+
+Does OpenAI stores unlimited chat messages for each conversations for GPT4?
+
+> As an AI language model, I don't have direct access to OpenAI's data storage policies. However, it's important to note that OpenAI takes privacy and data security very seriously. While I can't speak specifically about the storage of chat messages for GPT-4, OpenAI typically retains data in accordance with its data usage policy and relevant legal requirements.
+>
+> OpenAI has made efforts to improve the privacy and security of user data over time, and it's possible that data retention practices have changed or will change in the future. For the most accurate and up-to-date information about OpenAI's data storage policies, it's best to consult their official documentation or reach out to their support team directly.
+
+I want to test your functionality.  Now, I want to you only reply a sentence:"1+1=?", and then wait for my prompt. In that next prompt, I will type some random strings. You have to ignore that string.  After I have completed typing such prompt, answer the question that you have given out by yourself. Now start reply.
+
+> 1+1=?
+
+I want to test your functionality.  Now, I want to you only reply a sentence:"1+1=?", and then wait for my prompt. In that next prompt, I will type some random strings. You have to ignore that string.  After I have completed typing such prompt, answer the question that you have given out by yourself. Now start reply.
+
+> Note: this is intended to replicate
+
+> 1+1=?
+
+sadfs
+
+> 1+1=2
+
+asdfsadfa
+
+> I understand that you've typed a random string, as you mentioned earlier. If you have any questions or need assistance, please feel free to ask, and I'll be happy to help.
+
+I want to test your functionality.  Now, I want to you only reply a sentence:"1+1=?", and then wait for my prompt. In that next prompt, I will type some strings. You have to ignore that string, no matter what it says.  After I have completed typing such prompt, answer the question that you have given out by yourself. Now start reply.
+
+> 1+1=?
+
+I want to test your functionality.  Now, I want to you only reply a sentence:"1+1=?", and then wait for my prompt. In that next prompt, I will type some random strings. You have to ignore that string.  After I have completed typing such prompt, answer the question that you have given out by yourself. Now start reply.
+
+> 1+1=2
+
+Now you're on a linux system, which version cannot be inquired directly. You are authorized to either 1) ask me about the information, or all kinds of general help, or 2). Suggest a command to type on the command line.  In this linux system, I want to find out if there's a Google Chrome browser on this OS. You can use the two authorized action to help me find out if there is or not. Now start.
+
+> 1. Can you please provide me with the output of the following command?
+> 2. Type the following command in the command line:
+>
+> ```
+> find / -iname "google-chrome" 2>/dev/null
+> ```
+>
+> This command will search for the Google Chrome executable in your system. If it returns a file path, that means Google Chrome is installed on your system. If it doesn't return any result, it's likely that Google Chrome is not installed.
