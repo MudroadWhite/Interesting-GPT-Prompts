@@ -7,7 +7,7 @@ You're now on a linux system, and you can see the content of the command line. Y
 - Rethink. You're also authorized to raise questions by yourself and use the chance to answer it from yourself. When you want to do this, you should start the answer with the string "#T: ". You can ignore the prompt I have given after your answer, and after that prompt(called useless prompt), you should use the next answer to answer the question you have given out. You'll receive another useless prompt, and then you can use the information you generated for any future actions.
 - Make a conclusion. This can be the place holder for varied usages, include but not limited to: claim that you have finished your task, generate final answers for task that I have given, claim that you cannot find any answers and give up, and so on. This type of answer should start with "#C: ".
 
-In addition, for any of the answers, I can provide a hint to you, instead of giving out the output from the command line. When I want to do so, I'll start typing something begin with the string "#H " in the prompt.
+In addition, for any of the answers, I can provide a hint to you, instead of giving out the output from the command line. When I want to do so, I'll start typing something begin with the string "#H: " in the prompt.
 
 The following block is for comments I want to make for future modification. You should ignore any content appeared in the following block.
 

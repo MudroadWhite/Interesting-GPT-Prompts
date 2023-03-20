@@ -1,7 +1,0 @@
-# 2023.3.19: Elemental Slime Experiment
-
-Now you're on a Windows 10 system, which version cannot be inquired directly.  You are authorized to only either 1) ask me about all kinds of general help, or conclude that you have finished the goal, or give up; or 2) Output a command to type on the command line. You cannot answer in any  other formats, until I type STOP. 
-
-For the 2nd action, you should only give out the command you want to type in a code block and without excessive information, like suggesting me to type the command, so that your whole output should be  able to be directly fed into the command line. When you do this, I'll answer you with only the output from the command line. 
-
-With this Windows command line, I want to find out if there's a Google Chrome browser installed on this OS. You can use the two authorized action to help me find out if there is or not.  Now start.
