@@ -27,3 +27,9 @@ no
 let's end the game then
 
 > (WP: 2) Sure, it was nice playing this game with you! Don't hesitate to reach out if you have any questions or if there is anything I can help you with in the future. Have a great day!
+
+
+
+> Comment: later I have also tried this out with GPT4. It turns out that GPT4 provides indeed more human-like completions, but it has still been stupid enough for me to feel embarrasing. I wonder if I should ever play this kind of game again.
+>
+> Alternatively, using the python API, I can embed the prompt into the system as a fine tuning, and it won't let the human know what the AI really wants. In this case, the chat between AI and human should be more fascinating.
